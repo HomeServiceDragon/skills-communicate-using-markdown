@@ -18,7 +18,6 @@ int main()
 	scanf("%d%d%d%d%d", &num1, &num2, &num3, &num4, &num5);
 	
 	sum = num1 + num2 + num3 + num4 + num5;
-//	avg = (float)sum / 5;
 	avg = sum / 5;
 
 
@@ -27,7 +26,5 @@ int main()
 	
 	return 0;
 }
-
-//10 25 33 72 37
 ```
 
