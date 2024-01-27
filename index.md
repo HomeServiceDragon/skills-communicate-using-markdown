@@ -1,4 +1,8 @@
-```C
-	printf("Hello World!");
+```CSS
+img {
+    width: 32px;
+    height: 32px;
+    border-color: aqua;
+}
 ```
 
