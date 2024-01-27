@@ -1,7 +1,3 @@
-```CSS
-img {
-    width: 32px;
-    height: 32px;
-    border-color: aqua;
-}
-```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
