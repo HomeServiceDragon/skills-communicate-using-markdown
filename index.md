@@ -1,6 +1,7 @@
-# this is header one
-## this is header two
-### this is header three
-
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```CSS
+img {
+    width: 32px;
+    height: 32px;
+    border-color: aqua;
+}
+```
